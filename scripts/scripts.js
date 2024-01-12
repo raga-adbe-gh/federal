@@ -22,7 +22,7 @@ const LIBS = '/libs';
 const CONFIG = {
   // codeRoot: '',
   // contentRoot: '',
-  // imsClientId: 'federal',
+  imsClientId: 'fedsmilo',
   // geoRouting: 'off',
   // fallbackRouting: 'off',
   locales: {
