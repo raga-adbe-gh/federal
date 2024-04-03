@@ -30,6 +30,7 @@ const CONFIG = {
     de: { ietf: 'de-DE', tk: 'hah7vzn.css' },
     kr: { ietf: 'ko-KR', tk: 'zfo3ouc' },
   },
+  prodDomains: ['www', 'business', 'blog', 'helpx', 'stock'].map((sub) => `${sub}.adobe.com`),
 };
 
 // Load LCP image immediately
