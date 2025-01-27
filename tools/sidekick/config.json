@@ -1,6 +1,7 @@
 {
   "previewHost": "main--federal--adobecom.aem.page",
   "liveHost": "main--federal--adobecom.aem.live",
+  "project": "Federal",
   "plugins": [
     {
       "id": "library",
